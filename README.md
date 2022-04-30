@@ -4,12 +4,10 @@
 
 ### A little about me  
 
-<ul>
-  <li>Currently learning at [BeCode](https://becode.org/about/campuses/charleroi/)</li>
-  <li>Graduate from [ESA Saint-Luc](http://www.stluc-bruxelles-esa.be/Arts-numeriques) in [Digital Art](http://arts-numeriques-esa-stluc-bxl.be/)</li>
-  <li>I like to discover and learn by my own. Open minded, I am able to adapt to all kinds of situations.</li>
-  <li>If you want to please me, just buy me food</li>
-</ul>  
+Currently learning at [BeCode](https://becode.org/about/campuses/charleroi/)  
+Graduate from [ESA Saint-Luc](http://www.stluc-bruxelles-esa.be/Arts-numeriques) in [Digital Art](http://arts-numeriques-esa-stluc-bxl.be/)  
+I like to discover and learn by my own. Open minded, I am able to adapt to all kinds of situations  
+If you want to please me, just buy me food  
 
 ### Languages and technologies  
 
@@ -29,5 +27,5 @@
 
 ### Let's get in touch  
 
-[Gmail](https://mail.google.com/mail/u/1/#inbox)  
+[Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=juptsr.work@gmail.com)  
 [Linkedin](https://www.linkedin.com/in/julie-paternoster/)
