@@ -1,6 +1,6 @@
 # Julie Paternoster  
 
-***Digital designer et Junior Web Dev***  
+***Digital designer and Junior Web Dev***  
   
   
 ### A little about me  
