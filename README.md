@@ -8,7 +8,7 @@
 ✌️ Currently in an internship at [DirtyMonitor](https://www.dirtymonitor.com/)  
 ✔️ Graduate from [ESA Saint-Luc](http://www.stluc-bruxelles-esa.be/Arts-numeriques) in [Digital Art](http://arts-numeriques-esa-stluc-bxl.be/)  
 ✔️ Formation as a Web Junior Developer at [BeCode](https://becode.org/about/campuses/charleroi/)  
-🔥 I like to discover and learn by my own.  
+🔥 I like to discover and learn by my own  
 💓 If you want to please me, just buy me food  
   
   
