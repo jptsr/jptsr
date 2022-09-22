@@ -1,6 +1,6 @@
 # Julie Paternoster  
 
-***Digital designer and Junior Developer***  
+***Digital Designer and Junior Developer***  
   
   
 ### A little about me  
