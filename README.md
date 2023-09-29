@@ -14,16 +14,11 @@ Hi, I'm a food lover, I like creating innovative solutions where polar opposites
   
 ### Languages and technologies  
 
-***Front-end***  
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Sass</li>
   <li>Javascript</li>
-</ul>  
-
-***Back-end***  
-<ul>
   <li>PHP</li>
   <li>MySQL</li>
 </ul>  
