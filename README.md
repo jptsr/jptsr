@@ -6,9 +6,10 @@
 ### A little about me  
 
 ✔️ Graduate from [ESA Saint-Luc](http://www.stluc-bruxelles-esa.be/Arts-numeriques) in [Digital Art](http://arts-numeriques-esa-stluc-bxl.be/)  
-✔️ Formation as a Web Junior Developer at [BeCode](https://becode.org/about/campuses/charleroi/)  
-🔥 I like to discover and learn by my own  
-💓 If you want to please me, just buy me food  
+✔️ Formation as a Web Junior Developer at [BeCode](https://becode.org/about/campuses/charleroi/)
+
+Each problem has its solution, if there's no solution, there's no problem.
+Hi, I'm a food lover, I like creating innovative solutions where polar opposites can be in perfect balance. The more it is complex, the more fascinating the challenge becomes.
   
   
 ### Languages and technologies  
@@ -32,4 +33,4 @@
 
 📧 [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=juptsr.work@gmail.com)  
 🔹 [Linkedin](https://www.linkedin.com/in/julie-paternoster/)  
-🌝 [Behance](https://www.behance.net/juliepaterno)
+🌝 [Behance](https://www.behance.net/JuliePaternoster)
